@@ -24,6 +24,7 @@
 
 #include <string>
 #include <sstream>
+#include <cstdint>
 
 namespace Hdfs {
 namespace Internal {
